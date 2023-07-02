@@ -16,3 +16,24 @@ Henos aquí hace un siglo, sentados,
 meditando encarnizadamente
 como dar el zarpazo último que aniquile
 de modo inapelable y, para siempre, al otro.
+
+    "cSpell.words": [
+        "Ajedrez",
+        "amábamos",
+        "añadir",
+        "Castellanos",
+        "éramos",
+        "ESTO",
+        "interés",
+        "juegos",
+        "jugar",
+        "muchos",
+        "obligaban",
+        "otro",
+        "NO MAMES",
+        "Pusimos",
+        "quizá",
+        "ratos",
+        "TAREA"
+    ]
+}
